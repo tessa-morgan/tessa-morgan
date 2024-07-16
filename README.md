@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 ### :woman_student: About Me :
 I am a computer engineering student at Iowa State University.
 - 👩‍💻 The last two years, I've worked as a software engineering intern with Northrop Grumman.
-- 👩‍🏫 I'm also a TA for my departments Intro to Computer Engineering and Problem Solving course
-- ⚛️ I'm interested in pursuing embedded systems and have recently discovered an interest in quantum computing.
+- 👩‍🏫 I'm also a TA for my departments Intro to Computer Engineering and Problem Solving course.
+- ⚛️ Recently, I've discovered an interest in quantum computing and am interested in pursuing embedded systems.
 - 🐈 In my free time, I enjoy reading, hanging out with my cat, and skydiving.
 - :mailbox: How to reach me: [linkedin.com/in/tessa-morgan-cyber](https://www.linkedin.com/in/tessa-morgan-cyber)
 
