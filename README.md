@@ -56,7 +56,7 @@ I am a computer engineering student at Iowa State University.
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
+<div style="padding-top: 10px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp; &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp; &nbsp;
@@ -73,12 +73,13 @@ I am a computer engineering student at Iowa State University.
     <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg"  title="Postman" alt="Postman" width="40" height="40"/>&nbsp; &nbsp;
 </div>
 
+---
 
 <!-- <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=calm" alt="Jokes Card3" /> prussian-->
----
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt" alt="Jokes Card1" /> &nbsp; &nbsp;
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=onedark" alt="Jokes Card2" />  
+
+<div align="center" style="padding-top: 20px;">
+  <img height="200" src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt" alt="Jokes Card1" /> &nbsp; &nbsp;
+  <img height="200" src="https://readme-jokes.vercel.app/api?hideBorder&theme=onedark" alt="Jokes Card2" />  
 </div>
 
 <p align="center">
