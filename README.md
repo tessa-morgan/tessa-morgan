@@ -1,22 +1,15 @@
 <!--
 **tessa-morgan/tessa-morgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 Helpful Links:
 Snake Game: https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid 
 General Readme: https://www.sitepoint.com/github-profile-readme/#addinggithubstats
 Formatting: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 Readme Stats: https://github.com/anuraghazra/github-readme-stats
+Badges: https://github.com/alexandresanlim/Badges4-README.md-Profile
+Jokes: https://github.com/ABSphreak/readme-jokes?source=post_page-----6ee0e211f5a8--------------------------------
+Generate Images: https://github.com/khalby786/REHeader?source=post_page-----6ee0e211f5a8--------------------------------
+
 -->
 
 <div id="header" align="center"> 
@@ -48,6 +41,18 @@ I am a computer engineering student at Iowa State University.
 </div>
 
 ---
+<div align="center">
+  <img height="190" src="http://github-readme-streak-stats.herokuapp.com?user=tessa-morgan&theme=dracula"/>
+  <br> 
+</div>
+
+<div align="center">
+  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=tessa-morgan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+    &nbsp;
+  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tessa-morgan&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -70,12 +75,7 @@ I am a computer engineering student at Iowa State University.
 
 ---
 <div align="center">
-  <img height="190" src="http://github-readme-streak-stats.herokuapp.com?user=tessa-morgan&theme=dracula"/>
-  <br> 
-</div>
-
-<div align="center">
-  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=tessa-morgan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-    &nbsp;
-  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tessa-morgan&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="140" src="https://readme-jokes.vercel.app/api?hideBorder&theme=calm" alt="Jokes Card1" /> &nbsp;
+  <img height="140"src="https://readme-jokes.vercel.app/api?hideBorder&theme=bear" alt="Jokes Card2" /> &nbsp;
+  <img height="140" src="https://readme-jokes.vercel.app/api?hideBorder&theme=material-palenight" alt="Jokes Card3" />
 </div>
