@@ -39,6 +39,8 @@ I am a computer engineering student at Iowa State University.
 
 ![Snake animation](https://github.com/tessa-morgan/tessa-morgan/blob/output/github-contribution-grid-snake.svg)
 
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -59,9 +61,16 @@ I am a computer engineering student at Iowa State University.
 </div>
 
 ---
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tessa-morgan)](https://git.io/streak-stats)
+<!--
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tessa-morgan&theme=dracula)](https://git.io/streak-stats)
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tessa-morgan)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+<div align="center">
+  <img align="center" height="140" src="https://github-readme-stats.vercel.app/api?username=tess-morgan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+    <br> <br>
+  <img align="center" height="150" src="http://github-readme-streak-stats.herokuapp.com?user=tessa-morgan&theme=dracula"/>
+    &nbsp;
+  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tessa-morgan&layout=compact&langs_count=16&theme=dracula"/>
+</div>
