@@ -74,10 +74,15 @@ I am a computer engineering student at Iowa State University.
 </div>
 
 
-<!--  -->
+<!-- <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=calm" alt="Jokes Card3" /> prussian-->
 ---
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt" alt="Jokes Card1" /> &nbsp; 
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=calm" alt="Jokes Card2" /> &nbsp;
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=prussian" alt="Jokes Card3" /> 
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt" alt="Jokes Card1" /> &nbsp; &nbsp;
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=onedark" alt="Jokes Card2" />  
 </div>
+
+<p align="center">
+  *Jokes generated here: <a href="https://github.com/wesbos/dad-jokes" >wesbos/dad-jokes</a>
+</p>
+
+
