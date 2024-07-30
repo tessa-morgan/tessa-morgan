@@ -16,6 +16,7 @@ Helpful Links:
 Snake Game: https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid 
 General Readme: https://www.sitepoint.com/github-profile-readme/#addinggithubstats
 Formatting: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+Readme Stats: https://github.com/anuraghazra/github-readme-stats
 -->
 
 <div id="header" align="center"> 
@@ -68,16 +69,13 @@ I am a computer engineering student at Iowa State University.
 </div>
 
 ---
-<!--
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tessa-morgan&theme=dracula)](https://git.io/streak-stats)
-<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tessa-morgan)](https://github.com/anuraghazra/github-readme-stats)
--->
+<div align="center">
+  <img height="190" src="http://github-readme-streak-stats.herokuapp.com?user=tessa-morgan&theme=dracula"/>
+  <br> 
+</div>
 
 <div align="center">
-  <img align="center" height="140" src="https://github-readme-stats.vercel.app/api?username=tess-morgan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-    <br> <br>
-  <img align="center" height="150" src="http://github-readme-streak-stats.herokuapp.com?user=tessa-morgan&theme=dracula"/>
+  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=tessa-morgan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
     &nbsp;
   <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tessa-morgan&layout=compact&langs_count=16&theme=dracula"/>
 </div>
