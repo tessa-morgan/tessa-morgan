@@ -11,6 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Helpful Links:
+Snake Game: https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid 
+General Readme: https://www.sitepoint.com/github-profile-readme/#addinggithubstats
+Formatting: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 -->
 
 <div id="header" align="center"> 
@@ -37,7 +42,9 @@ I am a computer engineering student at Iowa State University.
 
 ---
 
-![Snake animation](https://github.com/tessa-morgan/tessa-morgan/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github.com/tessa-morgan/tessa-morgan/blob/output/github-contribution-grid-snake.svg" title="SnakeGame" alt="Snake Game"/> 
+</div>
 
 ---
 
