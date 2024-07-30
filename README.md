@@ -20,7 +20,7 @@ Readme Stats: https://github.com/anuraghazra/github-readme-stats
 -->
 
 <div id="header" align="center"> 
-<img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif?cid=ecf05e47jkt9wf4alhzf65lq5ougmwpeozlewpsi5gnzocod&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="300"/>
+<img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif?cid=ecf05e47jkt9wf4alhzf65lq5ougmwpeozlewpsi5gnzocod&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="400"/>
 </div>
 
 <div align="center">
