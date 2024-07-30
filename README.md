@@ -75,7 +75,7 @@ I am a computer engineering student at Iowa State University.
 
 ---
 <div align="center">
-  <img height="140" src="https://readme-jokes.vercel.app/api?hideBorder&theme=calm" alt="Jokes Card1" /> &nbsp;
-  <img height="140"src="https://readme-jokes.vercel.app/api?hideBorder&theme=bear" alt="Jokes Card2" /> &nbsp;
-  <img height="140" src="https://readme-jokes.vercel.app/api?hideBorder&theme=material-palenight" alt="Jokes Card3" />
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=calm" alt="Jokes Card1" /> &nbsp;
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=bear" alt="Jokes Card2" /> &nbsp;
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=material-palenight" alt="Jokes Card3" />
 </div>
