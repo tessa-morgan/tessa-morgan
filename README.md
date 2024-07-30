@@ -73,9 +73,11 @@ I am a computer engineering student at Iowa State University.
     <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg"  title="Postman" alt="Postman" width="40" height="40"/>&nbsp; &nbsp;
 </div>
 
+
+<!--  -->
 ---
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=calm" alt="Jokes Card1" /> &nbsp;
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=bear" alt="Jokes Card2" /> &nbsp;
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=material-palenight" alt="Jokes Card3" />
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt" alt="Jokes Card1" /> &nbsp; 
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=calm" alt="Jokes Card2" /> &nbsp;
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=prussian" alt="Jokes Card3" /> 
 </div>
