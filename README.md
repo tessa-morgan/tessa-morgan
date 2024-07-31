@@ -78,7 +78,7 @@ I am a computer engineering student at Iowa State University.
 <!-- <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=calm" alt="Jokes Card3" /> prussian-->
 
 <div align="center" style="padding-top: 20px;">
-  <img height="200" src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt" alt="Jokes Card1" /> &nbsp; &nbsp;
+  <img height="200" src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt" alt="Jokes Card1" /> &nbsp; 
   <img height="200" src="https://readme-jokes.vercel.app/api?hideBorder&theme=onedark" alt="Jokes Card2" />  
 </div>
 
